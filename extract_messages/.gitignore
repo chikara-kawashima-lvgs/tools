@@ -1,0 +1,4 @@
+# INPUT FILE
+*.json
+# OUTPUT FILE
+*.txt
